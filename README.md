@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my repository!
 I am a third-year student in computational engineering at LUT University.
 <!--
 **ToniKoskinen/ToniKoskinen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
