@@ -1,6 +1,6 @@
 
 ### Welcome to my profile!
-I'm a third-year student in the Computational Engineering Bachelor's Programme. My studies are focused on mathematics, information processing and software engineering. 
+I'm a master student in Data-Centric Engineering. My studies are focused on mathematics, information processing and software engineering. 
 
 ## Course projects
 Here are some of my course projects that I have completed during my studies.
