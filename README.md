@@ -1,6 +1,6 @@
 
 ### Welcome to my profile!
-I'm a master's student in Data-Centric Engineering and my studies focus on Applied Mathematics. 
+I'm a master's student in Data-Centric Engineering and my studies focus on Applied Mathematics. I will specialize in computational statistics.
 
 ## Course projects
 Here are some of my course projects that I have completed during my studies.
